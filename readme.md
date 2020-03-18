@@ -1,3 +1,3 @@
-My Git App
+Git Demo
 
-This my Git App Demo
+Working on the git branching and merging concepts
